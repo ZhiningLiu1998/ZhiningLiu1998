@@ -1,10 +1,10 @@
 ## Hi there! I'm Zhining Liu 👋
 
-[![GitHub](https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DZhiningLiu1998&labelColor=282c34&color=181717&logo=github&longCache=true&style=flat-square&suffix=%20Followers)](https://github.com/ZhiningLiu1998)
+[![GitHub](https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DZhiningLiu1998&labelColor=grey&color=181717&logo=github&longCache=true&style=flat-square&suffix=%20Followers)](https://github.com/ZhiningLiu1998)
 [![Zhihu](https://img.shields.io/badge/dynamic/json?color=282c34&labelColor=0084ff&label=%E7%9F%A5%E4%B9%8E/Zhihu&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dliu-zhi-zhu-14&longCache=true&style=flat-square&suffix=%20Followers)](https://www.zhihu.com/people/liu-zhi-zhu-14)
 [![Steam](https://img.shields.io/badge/dynamic/json?label=Steam&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DsteamFriends%26queryKey%3D76561198283527394&suffix=%20Friends&logo=steam&labelColor=134375&color=0b1a37&longCache=true&style=flat-square)](https://steamcommunity.com/id/zhiningliu1998) <br>
-![MSc](https://img.shields.io/badge/M.Sc.-Jilin%20Univ.%20(2019--2022)-brightgreen?style=flat-square)
-![BSc](https://img.shields.io/badge/B.Sc.-Jilin%20Univ.%20(2015--2019)-yellowgreen?style=flat-square)
+![MSc](https://img.shields.io/badge/M.Sc.-Jilin%20Univ.%20(2019--2022)-brightgreen?style=flat-square&color=181717&labelColor=blueviolet)
+![BSc](https://img.shields.io/badge/B.Sc.-Jilin%20Univ.%20(2015--2019)-yellowgreen?style=flat-square&color=181717&labelColor=red)
 
 - 🌏 Personal Page: https://zhiningliu.com
 - 🎓 Google Scholar: https://scholar.google.com/citations?user=5WORAUQAAAAJ
