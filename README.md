@@ -13,11 +13,12 @@
   <img src="https://img.shields.io/badge/M.Sc.-Jilin%20Univ.%20(2019--2022)-brightgreen?style=flat-square&color=181717&labelColor=blueviolet">
 </p>
 
-- 🌏 Personal Page: https://zhiningliu.com
-- 🎓 Google Scholar: https://scholar.google.com/citations?user=5WORAUQAAAAJ
-- 💼 Linkedin: https://www.linkedin.com/in/zhiningliu
-- 🎮 Steam: https://steamcommunity.com/id/zhiningliu1998
-- 📬 Email me at: [zhining.liu@outlook.com](mailto:zhining.liu@outlook.com)
+- 🌏 **Personal Page**: https://zhiningliu.com
+- 🎓 **Google Scholar**: https://scholar.google.com/citations?user=5WORAUQAAAAJ
+- 💼 **Linkedin**: https://www.linkedin.com/in/zhiningliu
+- 🍻 **知乎/Zhihu**: https://www.zhihu.com/people/liu-zhi-zhu-14
+- 🎮 **Steam**: https://steamcommunity.com/id/zhiningliu1998
+- 📬 **Email me at**: [zhining.liu@outlook.com](mailto:zhining.liu@outlook.com)
 
 <table style="border:none;font-size:0.92em;">  
   <tr>
