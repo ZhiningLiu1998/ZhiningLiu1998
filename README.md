@@ -24,7 +24,6 @@
   <tr>
     <td style="border:none;" align="center" colspan=2>
     <font style="font-size:25px"><strong> Recent Projects </strong></font>
-    <!-- <br><span>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;</span> -->
     </td>
   </tr>
   <tr>
@@ -64,7 +63,7 @@
   </a> [ICDE'20] <br> 
     [<a href="https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a841/290300a841.pdf">PDF</a>]
     [<a href="https://arxiv.org/abs/1909.03500v3">arXiv</a>] 
-    [<a href="{{ site.baseurl }}files/ICDE_2020_self_paced_ensemble_slides.pdf">Slides</a>] 
+    [<a href="https://zhiningliu.com/files/ICDE_2020_self_paced_ensemble_slides.pdf">Slides</a>] 
     [<a href="https://zhuanlan.zhihu.com/p/86891438">Zhihu/知乎</a>] </strong>
   </td>
   <td style="border:none;" align="center">
