@@ -27,50 +27,68 @@
     </td>
   </tr>
   <tr>
-  <td style="border:none;" align="center">
-  &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
-  <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning"><strong>
-  Awesome-imbalanced-learning: paper, code, frameworks, and libraries
-  </strong></a>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
-  </td>
-  <td style="border:none;" align="center">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
-  &zwnj;
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
-  </td>
+    <td style="border:none;" align="center">
+      &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
+      <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning"><strong>
+      Awesome-imbalanced-learning: paper, code, frameworks, and libraries
+      </strong></a>
+      &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
+    </td>
+    <td style="border:none;" align="center">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
+      &zwnj;
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
+    </td>
   </tr>
+
   <tr>
-  <td style="border:none;" align="center">
-  <a href="https://github.com/ZhiningLiu1998/mesa"><strong>
-  MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler 
-  </a> [NeurIPS'20] <br> 
-    [<a href="{{ site.baseurl }}files/NeurIPS_2020_MESA.pdf">PDF</a>]
-    [<a href="https://arxiv.org/abs/2010.08830">arXiv</a>]
-    [<a href="https://studio.slideslive.com/web_recorder/share/20201020T134559Z__NeurIPS_posters__17343__mesa-effective-ensemble-imbal?s=d3745afc-cfcf-4d60-9f34-63d3d811b55f">Video</a>]
-    [<a href="https://zhuanlan.zhihu.com/p/268539195">Zhihu/知乎</a>] </strong>
-  </td>
-  <td style="border:none;" align="center">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/mesa?style=social">
-  &zwnj;
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/mesa?style=social">
-  </td>
+    <td style="border:none;" align="center">
+      <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble"><strong>
+      imbalanced-ensemble
+      </a> [Python Package] <br> 
+        [<a href="https://pypi.org/project/imbalanced-ensemble/">PyPI</a>]
+        [<a href="https://imbalanced-ensemble.readthedocs.io">Documentation</a>]
+        [<a href="https://imbalanced-ensemble.readthedocs.io/en/latest/install.html">Installation</a>]
+    </td>
+    <td style="border:none;" align="center">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/imbalanced-ensemble?style=social">
+      &zwnj;
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/imbalanced-ensemble?style=social">
+    </td>
   </tr>
+
   <tr>
-  <td style="border:none;" align="center">
-  <a href="https://github.com/ZhiningLiu1998/self-paced-ensemble"><strong>
-  Self-paced Ensemble for Highly Imbalanced Massive Data Classification
-  </a> [ICDE'20] <br> 
-    [<a href="https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a841/290300a841.pdf">PDF</a>]
-    [<a href="https://arxiv.org/abs/1909.03500v3">arXiv</a>] 
-    [<a href="https://zhiningliu.com/files/ICDE_2020_self_paced_ensemble_slides.pdf">Slides</a>] 
-    [<a href="https://zhuanlan.zhihu.com/p/86891438">Zhihu/知乎</a>] </strong>
-  </td>
-  <td style="border:none;" align="center">
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/self-paced-ensemble?style=social">
-  &zwnj;
-  <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/self-paced-ensemble?style=social">
-  </td>
+    <td style="border:none;" align="center">
+      <a href="https://github.com/ZhiningLiu1998/mesa"><strong>
+      MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler 
+      </a> [NeurIPS'20] <br> 
+        [<a href="{{ site.baseurl }}files/NeurIPS_2020_MESA.pdf">PDF</a>]
+        [<a href="https://arxiv.org/abs/2010.08830">arXiv</a>]
+        [<a href="https://studio.slideslive.com/web_recorder/share/20201020T134559Z__NeurIPS_posters__17343__mesa-effective-ensemble-imbal?s=d3745afc-cfcf-4d60-9f34-63d3d811b55f">Video</a>]
+        [<a href="https://zhuanlan.zhihu.com/p/268539195">Zhihu/知乎</a>] </strong>
+    </td>
+    <td style="border:none;" align="center">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/mesa?style=social">
+      &zwnj;
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/mesa?style=social">
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border:none;" align="center">
+      <a href="https://github.com/ZhiningLiu1998/self-paced-ensemble"><strong>
+      Self-paced Ensemble for Highly Imbalanced Massive Data Classification
+      </a> [ICDE'20] <br> 
+        [<a href="https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a841/290300a841.pdf">PDF</a>]
+        [<a href="https://arxiv.org/abs/1909.03500v3">arXiv</a>] 
+        [<a href="https://zhiningliu.com/files/ICDE_2020_self_paced_ensemble_slides.pdf">Slides</a>] 
+        [<a href="https://zhuanlan.zhihu.com/p/86891438">Zhihu/知乎</a>] </strong>
+    </td>
+    <td style="border:none;" align="center">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/self-paced-ensemble?style=social">
+      &zwnj;
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/self-paced-ensemble?style=social">
+    </td>
   </tr>
 </table>
 
