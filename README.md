@@ -22,17 +22,17 @@
 
 <table style="border:none;font-size:0.92em;">  
   <tr>
-    <td style="border:none;" align="center" colspan=2>
+    <td style="border:none;" align="center" colspan=2, width="70%">
     <font style="font-size:25px"><strong> Recent Projects </strong></font>
     </td>
   </tr>
   <tr>
     <td style="border:none;" align="center">
-      &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
+      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
       <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning"><strong>
       Awesome-imbalanced-learning: paper, code, frameworks, and libraries
       </strong></a>
-      &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;
+      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
     </td>
     <td style="border:none;" align="center">
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
@@ -44,11 +44,13 @@
   <tr>
     <td style="border:none;" align="center">
       <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble"><strong>
-      imbalanced-ensemble
+      IMBENS: class-imbalanced ensemble learning in Python.
       </a> [Python Package] <br> 
-        [<a href="https://pypi.org/project/imbalanced-ensemble/">PyPI</a>]
         [<a href="https://imbalanced-ensemble.readthedocs.io">Documentation</a>]
-        [<a href="https://imbalanced-ensemble.readthedocs.io/en/latest/install.html">Installation</a>]
+        [<a href="https://imbalanced-ensemble.readthedocs.io/en/latest/auto_examples/index.html#">Gallery</a>]
+        [<a href="https://pypi.org/project/imbalanced-ensemble/">PyPI</a>]
+        [<a href="https://imbalanced-ensemble.readthedocs.io/en/latest/release_history.html">Changelog</a>]
+        [<a href="https://zhuanlan.zhihu.com/p/376572330">Zhihu/知乎</a>]
     </td>
     <td style="border:none;" align="center">
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/imbalanced-ensemble?style=social">
