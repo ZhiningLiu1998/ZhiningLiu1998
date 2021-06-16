@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there! I'm Zhining Liu 👋 </h1>
+<h2 align="center"> Hi there, I'm Zhining LIU (刘芷宁 in Chinese)! 👋 </h2>
 
 <p align="center">
   <a href="https://github.com/ZhiningLiu1998">
