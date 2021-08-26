@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there! I'm Zhining Liu 👋 </h1>
+<h2 align="center"> Hi there, I'm Zhining LIU (刘芷宁 in Chinese)! 👋 </h2>
 
 <p align="center">
   <a href="https://github.com/ZhiningLiu1998">
@@ -83,6 +83,7 @@
       </a> [ICDE'20] <br> 
         [<a href="https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a841/290300a841.pdf">PDF</a>]
         [<a href="https://arxiv.org/abs/1909.03500v3">arXiv</a>] 
+        [<a href="https://www.bilibili.com/video/BV1Fg411L7gk">Video</a>] 
         [<a href="https://zhiningliu.com/files/ICDE_2020_self_paced_ensemble_slides.pdf">Slides</a>] 
         [<a href="https://zhuanlan.zhihu.com/p/86891438">Zhihu/知乎</a>] </strong>
     </td>
@@ -109,6 +110,9 @@
   </td>
   </tr>
 </table>
+
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ZhiningLiu1998&theme=onedark) -->
+
 
 <!-- ![GitHub](https://github-readme-stats.vercel.app/api/pin?username=ZhiningLiu1998&repo=mesa&show_icons=true&hide_border=true&theme=vision-friendly-dark)
 ![GitHub](https://github-readme-stats.vercel.app/api/pin?username=ZhiningLiu1998&repo=awesome-imbalanced-learning&show_icons=true&hide_border=true&theme=vision-friendly-dark)
