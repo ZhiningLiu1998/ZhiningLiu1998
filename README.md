@@ -103,20 +103,26 @@
   </tr>
   <tr>
   <td style="border:none;" align="center">
+  <img src="https://raw.githubusercontent.com/ZhiningLiu1998/github-stats-transparent/output/generated/overview.svg">
+  </td>
+  <td style="border:none;" align="center">
+  <img src="https://raw.githubusercontent.com/ZhiningLiu1998/github-stats-transparent/output/generated/languages.svg">
+  </td>
+  </tr>
+</table>
+
+<!-- <table style="border:none;font-size:0.92em;">  
+  <tr>
+    <td style="border:none;" align="center" colspan=2>
+    <font style="font-size:25px"><strong> Github Stats </strong></font>
+    </td>
+  </tr>
+  <tr>
+  <td style="border:none;" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZhiningLiu1998&show_icons=true&hide_border=true&bg_color=30,4a0908,643296&hide=issues&hide_rank=false&include_all_commits=true&theme=vision-friendly-dark">
   </td>
   <td style="border:none;" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiningLiu1998&show_icons=true&hide_border=true&bg_color=30,4a0908,643296&hide=issues,contribs&layout=compact&theme=vision-friendly-dark">
   </td>
   </tr>
-</table>
-
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ZhiningLiu1998&theme=onedark) -->
-
-
-<!-- ![GitHub](https://github-readme-stats.vercel.app/api/pin?username=ZhiningLiu1998&repo=mesa&show_icons=true&hide_border=true&theme=vision-friendly-dark)
-![GitHub](https://github-readme-stats.vercel.app/api/pin?username=ZhiningLiu1998&repo=awesome-imbalanced-learning&show_icons=true&hide_border=true&theme=vision-friendly-dark)
-![GitHub](https://github-readme-stats.vercel.app/api/pin?username=ZhiningLiu1998&repo=self-paced-ensemble&show_icons=true&hide_border=true&theme=vision-friendly-dark) -->
-
-<!-- [![GitHub](https://github-readme-stats.vercel.app/api?username=ZhiningLiu1998&show_icons=true&hide_border=true&bg_color=30,4a0908,643296&hide=issues&hide_rank=false&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/ZhiningLiu1998)
-[![GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhiningLiu1998&show_icons=true&hide_border=true&bg_color=30,4a0908,643296&hide=issues,contribs&layout=compact&theme=vision-friendly-dark)](https://github.com/ZhiningLiu1998) -->
+</table> -->
