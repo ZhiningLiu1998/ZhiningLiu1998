@@ -26,26 +26,13 @@
     <font style="font-size:25px"><strong> Recent Projects </strong></font>
     </td>
   </tr>
-  <tr>
-    <td style="border:none;" align="center">
-      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
-      <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning"><strong>
-      Awesome-imbalanced-learning: paper, code, frameworks, and libraries
-      </strong></a>
-      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
-    </td>
-    <td style="border:none;" align="center">
-      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
-      &zwnj;
-      <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
-    </td>
-  </tr>
 
   <tr>
     <td style="border:none;" align="center">
       <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble"><strong>
       IMBENS: class-imbalanced ensemble learning in Python.
-      </a> [Python Package] <br> 
+      </a> [Python Library] <br> 
+        [<a href="https://arxiv.org/pdf/2111.12776.pdf">PDF</a>]
         [<a href="https://imbalanced-ensemble.readthedocs.io">Documentation</a>]
         [<a href="https://imbalanced-ensemble.readthedocs.io/en/latest/auto_examples/index.html#">Gallery</a>]
         [<a href="https://pypi.org/project/imbalanced-ensemble/">PyPI</a>]
@@ -64,7 +51,7 @@
       <a href="https://github.com/ZhiningLiu1998/mesa"><strong>
       MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler 
       </a> [NeurIPS'20] <br> 
-        [<a href="{{ site.baseurl }}files/NeurIPS_2020_MESA.pdf">PDF</a>]
+        [<a href="https://arxiv.org/pdf/2010.08830.pdf">PDF</a>]
         [<a href="https://arxiv.org/abs/2010.08830">arXiv</a>]
         [<a href="https://studio.slideslive.com/web_recorder/share/20201020T134559Z__NeurIPS_posters__17343__mesa-effective-ensemble-imbal?s=d3745afc-cfcf-4d60-9f34-63d3d811b55f">Video</a>]
         [<a href="https://zhuanlan.zhihu.com/p/268539195">Zhihu/知乎</a>] </strong>
@@ -81,7 +68,7 @@
       <a href="https://github.com/ZhiningLiu1998/self-paced-ensemble"><strong>
       Self-paced Ensemble for Highly Imbalanced Massive Data Classification
       </a> [ICDE'20] <br> 
-        [<a href="https://conferences.computer.org/icde/2020/pdfs/ICDE2020-5acyuqhpJ6L9P042wmjY1p/290300a841/290300a841.pdf">PDF</a>]
+        [<a href="https://arxiv.org/pdf/1909.03500v3.pdf">PDF</a>]
         [<a href="https://arxiv.org/abs/1909.03500v3">arXiv</a>] 
         [<a href="https://www.bilibili.com/video/BV1Fg411L7gk">Video</a>] 
         [<a href="https://zhiningliu.com/files/ICDE_2020_self_paced_ensemble_slides.pdf">Slides</a>] 
@@ -91,6 +78,36 @@
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/self-paced-ensemble?style=social">
       &zwnj;
       <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/self-paced-ensemble?style=social">
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border:none;" align="center">
+      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
+      <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning"><strong>
+      Awesome-imbalanced-learning: paper, code, frameworks, and libraries
+      </strong></a>
+      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
+    </td>
+    <td style="border:none;" align="center">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
+      &zwnj;
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border:none;" align="center">
+      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
+      <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning"><strong>
+      A curated list of awesome lists across all machine learning topics
+      </strong></a>
+      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
+    </td>
+    <td style="border:none;" align="center">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-awesome-machine-learning?style=social">
+      &zwnj;
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-awesome-machine-learning?style=social">
     </td>
   </tr>
 </table>
