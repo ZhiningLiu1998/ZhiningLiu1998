@@ -30,7 +30,7 @@
   <tr>
     <td style="border:none;" align="center">
       <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble"><strong>
-      IMBENS: class-imbalanced ensemble learning in Python.
+      IMBENS: class-imbalanced ensemble learning in Python
       </a> [Python Library] <br> 
         [<a href="https://arxiv.org/pdf/2111.12776.pdf">PDF</a>]
         [<a href="https://imbalanced-ensemble.readthedocs.io">Documentation</a>]
@@ -40,7 +40,8 @@
         [<a href="https://zhuanlan.zhihu.com/p/376572330">Zhihu/知乎</a>]
     </td>
     <td style="border:none;" align="center">
-    <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble/stargazers">
+      <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/thumbnails/imbens-thumb.png" width="150px" alt=""/><br>
+      <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble/stargazers">
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/imbalanced-ensemble?style=social">
       </a>
       <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble/network/members">
@@ -60,6 +61,7 @@
         [<a href="https://zhuanlan.zhihu.com/p/268539195">Zhihu/知乎</a>] </strong>
     </td>
     <td style="border:none;" align="center">
+      <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/thumbnails/mesa-thumb.png" width="150px" alt=""/><br>
       <a href="https://github.com/ZhiningLiu1998/mesa/stargazers">
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/mesa?style=social">
       </a>
@@ -81,6 +83,7 @@
         [<a href="https://zhuanlan.zhihu.com/p/86891438">Zhihu/知乎</a>] </strong>
     </td>
     <td style="border:none;" align="center">
+      <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/thumbnails/spe-thumb-1.png" width="150px" alt=""/><br>
       <a href="https://github.com/ZhiningLiu1998/self-paced-ensemble/stargazers">
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/self-paced-ensemble?style=social">
       </a>
@@ -95,10 +98,14 @@
       <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
       <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning"><strong>
       Awesome-imbalanced-learning: paper, code, frameworks, and libraries
-      </strong></a>
+      </a><br> 
+        [<a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning">English</a>] 
+        [<a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/blob/master/README_CN.md">Chinese/中文</a>]
+        [<a href="https://zhuanlan.zhihu.com/p/111460698">Zhihu/知乎</a>]</strong>
       <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
     </td>
     <td style="border:none;" align="center">
+      <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/thumbnails/awesomeil-thumb.png" width="150px" alt=""/><br>
       <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/stargazers">
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
       </a>
@@ -113,10 +120,14 @@
       <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
       <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning"><strong>
       Awesome2ML: a curated list across all machine learning topics
-      </strong></a>
+      </a><br> 
+        [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning">English</a>] 
+        [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md">Chinese/中文</a>]
+        [<a href="https://zhuanlan.zhihu.com/p/449876793">Zhihu/知乎</a>]</strong>
       <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
     </td>
     <td style="border:none;" align="center">
+      <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/awesome-awesome-ml/machine-learning.png" width="150px" alt=""/><br>
       <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/stargazers">
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-awesome-machine-learning?style=social">
       </a>
