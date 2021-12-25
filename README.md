@@ -40,9 +40,12 @@
         [<a href="https://zhuanlan.zhihu.com/p/376572330">Zhihu/知乎</a>]
     </td>
     <td style="border:none;" align="center">
+    <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble/stargazers">
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/imbalanced-ensemble?style=social">
-      &zwnj;
+      </a>
+      <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble/network/members">
       <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/imbalanced-ensemble?style=social">
+      </a>
     </td>
   </tr>
 
@@ -57,9 +60,12 @@
         [<a href="https://zhuanlan.zhihu.com/p/268539195">Zhihu/知乎</a>] </strong>
     </td>
     <td style="border:none;" align="center">
+      <a href="https://github.com/ZhiningLiu1998/mesa/stargazers">
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/mesa?style=social">
-      &zwnj;
+      </a>
+      <a href="https://github.com/ZhiningLiu1998/mesa/network/members">
       <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/mesa?style=social">
+      </a>
     </td>
   </tr>
 
@@ -75,9 +81,12 @@
         [<a href="https://zhuanlan.zhihu.com/p/86891438">Zhihu/知乎</a>] </strong>
     </td>
     <td style="border:none;" align="center">
+      <a href="https://github.com/ZhiningLiu1998/self-paced-ensemble/stargazers">
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/self-paced-ensemble?style=social">
-      &zwnj;
+      </a>
+      <a href="https://github.com/ZhiningLiu1998/self-paced-ensemble/network/members">
       <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/self-paced-ensemble?style=social">
+      </a>
     </td>
   </tr>
 
@@ -90,9 +99,12 @@
       <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
     </td>
     <td style="border:none;" align="center">
+      <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/stargazers">
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
-      &zwnj;
+      </a>
+      <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/network/members">
       <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
+      </a>
     </td>
   </tr>
 
@@ -100,13 +112,15 @@
     <td style="border:none;" align="center">
       <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
       <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning"><strong>
-      A curated list of awesome lists across all machine learning topics
+      Awesome2ML: a curated list across all machine learning topics
       </strong></a>
       <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
     </td>
     <td style="border:none;" align="center">
+      <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/stargazers">
       <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-awesome-machine-learning?style=social">
-      &zwnj;
+      </a>
+      <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/network/members">
       <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-awesome-machine-learning?style=social">
     </td>
   </tr>
