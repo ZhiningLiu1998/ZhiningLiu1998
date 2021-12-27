@@ -97,8 +97,8 @@
     <td style="border:none;" align="center">
       <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
       <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning"><strong>
-      Awesome-imbalanced-learning: paper, code, frameworks, and libraries
-      </a><br> 
+      AwesomeIL: a curated list across all imbalanced/long-tailed learning topics
+      </a> [Awesome]<br> 
         [<a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning">English</a>] 
         [<a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/blob/master/README_CN.md">Chinese/中文</a>]
         [<a href="https://zhuanlan.zhihu.com/p/111460698">Zhihu/知乎</a>]</strong>
@@ -120,7 +120,7 @@
       <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
       <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning"><strong>
       Awesome2ML: a curated list across all machine learning topics
-      </a><br> 
+      </a> [Awesome]<br> 
         [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning">English</a>] 
         [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md">Chinese/中文</a>]
         [<a href="https://zhuanlan.zhihu.com/p/449876793">Zhihu/知乎</a>]</strong>
