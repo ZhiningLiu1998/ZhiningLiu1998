@@ -119,7 +119,7 @@
     <td style="border:none;" align="center">
       <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
       <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning"><strong>
-      Awesome2ML: a curated list across all machine learning topics
+      Awesome Machine Learning Resources
       </a> [Awesome]<br> 
         [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning">English</a>] 
         [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md">Chinese/中文</a>]
