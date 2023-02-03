@@ -10,7 +10,7 @@
   <a href="https://steamcommunity.com/id/zhiningliu1998">
     <img src="https://img.shields.io/badge/dynamic/json?label=Steam&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DsteamFriends%26queryKey%3D76561198283527394&suffix=%20Friends&logo=steam&labelColor=134375&color=0b1a37&longCache=true&style=flat-square">
   </a>
-  <img src="https://img.shields.io/badge/M.Sc.-Jilin%20Univ.%20(2019--2022)-brightgreen?style=flat-square&color=181717&labelColor=blueviolet">
+  <img src="https://img.shields.io/badge/Ph.D.-UIUC%20(2022--Now)-brightgreen?style=flat-square&color=181717&labelColor=blueviolet">
 </p>
 
 - 🌏 **Personal Page**: https://zhiningliu.com
