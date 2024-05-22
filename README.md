@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/ZhiningLiu1998">
-    <img src="https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DZhiningLiu1998&labelColor=grey&color=181717&logo=github&longCache=true&style=flat-square&suffix=%20Followers">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fzhiningliu1998&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&style=flat-square&suffix=+Followers&cacheSeconds=3600">
   </a>
   <a href="https://www.zhihu.com/people/liu-zhi-zhu-14">
-    <img src="https://img.shields.io/badge/dynamic/json?color=282c34&labelColor=0084ff&label=%E7%9F%A5%E4%B9%8E/Zhihu&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dliu-zhi-zhu-14&longCache=true&style=flat-square&suffix=%20Followers">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fliu-zhi-zhu-14&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&style=flat-square&suffix=+Followers&cacheSeconds=3600">
   </a>
   <a href="https://steamcommunity.com/id/zhiningliu1998">
-    <img src="https://img.shields.io/badge/dynamic/json?label=Steam&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3DsteamFriends%26queryKey%3D76561198283527394&suffix=%20Friends&logo=steam&labelColor=134375&color=0b1a37&longCache=true&style=flat-square">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561198283527394&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&style=flat-square&suffix=+Friends&cacheSeconds=3600">
   </a>
   <img src="https://img.shields.io/badge/Ph.D.-UIUC%20(2022--Now)-brightgreen?style=flat-square&color=181717&labelColor=blueviolet">
 </p>
