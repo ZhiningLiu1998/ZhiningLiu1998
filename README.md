@@ -13,6 +13,11 @@
   <img src="https://img.shields.io/badge/Ph.D.-UIUC%20(2022--Now)-brightgreen?style=flat-square&color=181717&labelColor=blueviolet">
 </p>
 
+I'm a Ph.D. candidate at [Department of Computer Science](https://cs.illinois.edu/), [University of Illinois at Urbana-Champaign](https://illinois.edu/).
+I'm interested in doing [research](https://scholar.google.com/citations?user=5WORAUQAAAAJ&hl=zh-CN) and developing [open-source softwares](https://github.com/ZhiningLiu1998) for **<u>unbiased</u>**, **<u>efficient</u>**, and **<u>robust</u>** learning from skewed data in real-world applications. My recent interest lies in graph data mining (ICML'24), class-imbalanced learning (ICML'24,NeurIPS'20,ICDE'20), and fairness-aware machine learning (KDD'24, FAccT'24).
+
+Learn more about me😎:
+
 - 🌏 **Personal Page**: https://zhiningliu.com
 - 🎓 **Google Scholar**: https://scholar.google.com/citations?user=5WORAUQAAAAJ
 - 💼 **Linkedin**: https://www.linkedin.com/in/zhiningliu
@@ -23,7 +28,7 @@
 <table style="border:none;font-size:0.92em;">  
   <tr>
     <td style="border:none;" align="center" colspan=2, width="70%">
-    <font style="font-size:25px"><strong> Recent Projects </strong></font>
+    <font style="font-size:25px"><strong> 🛸Featured Projects </strong></font>
     </td>
   </tr>
 
@@ -46,6 +51,30 @@
       </a>
       <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble/network/members">
       <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/imbalanced-ensemble?style=social">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border:none;" align="center">
+      <strong>
+        <a href="https://github.com/ZhiningLiu1998/mesa">
+          Class-Imbalanced Graph Learning without Class Rebalancing
+        </a> 
+        [ICML'24] <br> 
+        [<a href="https://arxiv.org/pdf/2308.14181">PDF</a>]
+        [<a href="https://arxiv.org/abs/2308.14181">arXiv</a>]
+        [<a href="https://github.com/ZhiningLiu1998/BAT">Github</a>]
+        [<a href="https://zhuanlan.zhihu.com/p/699526077">Zhihu/知乎</a>]
+      </strong>
+    </td>
+    <td style="border:none;" align="center">
+      <img src="https://zhiningliu.com/images/icml24-bat.png" width="150px" alt=""/><br>
+      <a href="https://github.com/ZhiningLiu1998/mesa/stargazers">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/bat?style=social">
+      </a>
+      <a href="https://github.com/ZhiningLiu1998/mesa/network/members">
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/bat?style=social">
       </a>
     </td>
   </tr>
