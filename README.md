@@ -35,7 +35,7 @@ Learn more about me😎:
   <tr>
     <td style="border:none;" align="center">
       <a href="https://github.com/ZhiningLiu1998/imbalanced-ensemble"><strong>
-      IMBENS: class-imbalanced ensemble learning in Python
+      ⚒️IMBENS: class-imbalanced ensemble learning in Python
       </a> [Python Library] <br> 
         [<a href="https://arxiv.org/pdf/2111.12776.pdf">PDF</a>]
         [<a href="https://imbalanced-ensemble.readthedocs.io">Documentation</a>]
@@ -58,8 +58,8 @@ Learn more about me😎:
   <tr>
     <td style="border:none;" align="center">
       <strong>
-        <a href="https://github.com/ZhiningLiu1998/mesa">
-          Class-Imbalanced Graph Learning without Class Rebalancing
+        <a href="https://github.com/ZhiningLiu1998/BAT">
+          🚀BAT: Boost Class-imbalanced Node Classification with <10 lines of Code
         </a> 
         [ICML'24] <br> 
         [<a href="https://arxiv.org/pdf/2308.14181">PDF</a>]
@@ -82,7 +82,7 @@ Learn more about me😎:
   <tr>
     <td style="border:none;" align="center">
       <a href="https://github.com/ZhiningLiu1998/mesa"><strong>
-      MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler 
+      ⚖️MESA: Boost Ensemble Imbalanced Learning with MEta-SAmpler 
       </a> [NeurIPS'20] <br> 
         [<a href="https://arxiv.org/pdf/2010.08830.pdf">PDF</a>]
         [<a href="https://arxiv.org/abs/2010.08830">arXiv</a>]
@@ -103,7 +103,7 @@ Learn more about me😎:
   <tr>
     <td style="border:none;" align="center">
       <a href="https://github.com/ZhiningLiu1998/self-paced-ensemble"><strong>
-      Self-paced Ensemble for Highly Imbalanced Massive Data Classification
+      ⚖️Self-paced Ensemble for Highly Imbalanced Massive Data Classification
       </a> [ICDE'20] <br> 
         [<a href="https://arxiv.org/pdf/1909.03500v3.pdf">PDF</a>]
         [<a href="https://arxiv.org/abs/1909.03500v3">arXiv</a>] 
@@ -126,7 +126,7 @@ Learn more about me😎:
     <td style="border:none;" align="center">
       <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
       <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning"><strong>
-      AwesomeIL: a curated list across all imbalanced/long-tailed learning topics
+      😎AwesomeIL: a curated list across all imbalanced/long-tailed learning topics
       </a> [Awesome]<br> 
         [<a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning">English</a>] 
         [<a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/blob/master/README_CN.md">Chinese/中文</a>]
@@ -148,7 +148,7 @@ Learn more about me😎:
     <td style="border:none;" align="center">
       <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
       <a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning"><strong>
-      Awesome Machine Learning Resources
+      😎Awesome Machine Learning Resources
       </a> [Awesome]<br> 
         [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning">English</a>] 
         [<a href="https://github.com/ZhiningLiu1998/awesome-awesome-machine-learning/blob/main/README_CN.md">Chinese/中文</a>]
