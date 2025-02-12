@@ -4,8 +4,14 @@
   <a href="https://github.com/ZhiningLiu1998">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fzhiningliu1998&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&style=flat-square&suffix=+Followers&cacheSeconds=3600">
   </a>
-  <a href="https://www.zhihu.com/people/liu-zhi-zhu-14">
+  <!-- <a href="https://www.zhihu.com/people/liu-zhi-zhu-14">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fliu-zhi-zhu-14&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&style=flat-square&suffix=+Followers&cacheSeconds=3600">
+  </a> -->
+  <a href="https://www.zhihu.com/people/liu-zhi-zhu-14">
+  <img src="https://img.shields.io/badge/Zhihu-4k Followers-brightgreen?style=flat-square&color=181717&labelColor=0084ff&logo=zhihu&logoColor=ffffff">
+  </a>
+  <a href="https://scholar.google.com/citations?user=5WORAUQAAAAJ">
+    <img src="https://img.shields.io/badge/Google%20Scholar-%2320beff?color=1f1f18&logo=google-scholar&style=flat-square">
   </a>
   <a href="https://steamcommunity.com/id/zhiningliu1998">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamfriends%2F76561198283527394&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&style=flat-square&suffix=+Friends&cacheSeconds=3600">
@@ -14,7 +20,7 @@
 </p>
 
 I'm a Ph.D. candidate at [Department of Computer Science](https://cs.illinois.edu/), [University of Illinois at Urbana-Champaign](https://illinois.edu/).
-I'm interested in doing [research](https://scholar.google.com/citations?user=5WORAUQAAAAJ&hl=zh-CN) and developing [open-source softwares](https://github.com/ZhiningLiu1998) for **<u>unbiased</u>**, **<u>efficient</u>**, and **<u>robust</u>** learning from skewed data in real-world applications. My recent interest lies in graph data mining (ICML'24), class-imbalanced learning (ICML'24,NeurIPS'20,ICDE'20), and fairness-aware machine learning (KDD'24, FAccT'24).
+I'm interested in doing [research](https://scholar.google.com/citations?user=5WORAUQAAAAJ) and developing [open-source softwares](https://github.com/ZhiningLiu1998) for **<u>unbiased</u>**, **<u>efficient</u>**, and **<u>robust</u>** learning from skewed data in real-world applications. My recent interest lies in graph data mining (ICML'24), class-imbalanced learning (ICML'24,NeurIPS'20,ICDE'20), and fairness-aware machine learning (KDD'24, FAccT'24).
 
 Learn more about me😎:
 
