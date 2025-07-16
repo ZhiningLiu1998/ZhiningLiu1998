@@ -1,4 +1,4 @@
-<h2 align="center"> Greetings! 👋 I'm Zhi-ning LIU (刘芷宁 in Chinese) </h2>
+<h2 align="center"> Greetings! 👋 I'm Zhining Liu (刘芷宁) </h2>
 
 <p align="center">
   <a href="https://github.com/ZhiningLiu1998">
@@ -19,8 +19,19 @@
   <img src="https://img.shields.io/badge/Ph.D.-UIUC%20(2022--Now)-brightgreen?style=flat-square&color=181717&labelColor=blueviolet">
 </p>
 
-I'm a Ph.D. candidate at [Department of Computer Science](https://cs.illinois.edu/), [University of Illinois at Urbana-Champaign](https://illinois.edu/).
-I'm interested in doing [research](https://scholar.google.com/citations?user=5WORAUQAAAAJ) and developing [open-source softwares](https://github.com/ZhiningLiu1998) for **<u>unbiased</u>**, **<u>efficient</u>**, and **<u>robust</u>** learning from skewed data in real-world applications. My recent interest lies in graph data mining (ICML'24), class-imbalanced learning (ICML'24,NeurIPS'20,ICDE'20), and fairness-aware machine learning (KDD'24, FAccT'24).
+<!-- I'm a Ph.D. candidate at [Department of Computer Science](https://cs.illinois.edu/), [University of Illinois at Urbana-Champaign](https://illinois.edu/).
+I'm interested in doing [research](https://scholar.google.com/citations?user=5WORAUQAAAAJ) and developing [open-source softwares](https://github.com/ZhiningLiu1998) for **<u>unbiased</u>**, **<u>efficient</u>**, and **<u>robust</u>** learning from skewed data in real-world applications. My recent interest lies in graph data mining (ICML'24), class-imbalanced learning (ICML'24,NeurIPS'20,ICDE'20), and fairness-aware machine learning (KDD'24, FAccT'24). -->
+
+I'm a Ph.D. candidate at [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu/), working with the very nice [Prof. Hanghang Tong](http://tonghanghang.org/). 
+Before joining UIUC, I received my B.S. and M.Eng. in Computer Science from [Jilin University](http://global.jlu.edu.cn/) in 2019 and 2022, where I was fortunate to have [Prof. Yi Chang](http://yichang-cs.com/) as my advisor.
+I also worked as a research/applied scientist intern at [Amazon](https://www.amazon.com/) and [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
+ 
+I enjoy doing research ([GoogleScholar](https://scholar.google.com/citations?user=5WORAUQAAAAJ&hl=zh-CN)) and developing open-source softwares ([GitHub](https://github.com/ZhiningLiu1998)) for **Data-centric Trustworthy AI/ML**, my interests include but not limited to:
+- Large Language Model Factuality (ACL'25)
+- Graph & Time Series Data Mining (ICML'24, ICML'25)
+- Fairness-aware ML (KDD'24, FAccT'24)
+- Class-imbalanced Learning (ICML'24, ICDE'20)
+- Meta Ensemble Learning (ICML'25, NeurIPS'20)
 
 Learn more about me😎:
 
@@ -180,10 +191,10 @@ Learn more about me😎:
   </tr>
   <tr>
   <td style="border:none;" align="center">
-  <img src="https://raw.githubusercontent.com/ZhiningLiu1998/github-stats-transparent/output/generated/overview.svg">
+  <img src="https://raw.githubusercontent.com/ZhiningLiu1998/github-stats/master/generated/overview.svg">
   </td>
   <td style="border:none;" align="center">
-  <img src="https://raw.githubusercontent.com/ZhiningLiu1998/github-stats-transparent/output/generated/languages.svg">
+  <img src="https://raw.githubusercontent.com/ZhiningLiu1998/github-stats/master/generated/languages.svg">
   </td>
   </tr>
 </table>
