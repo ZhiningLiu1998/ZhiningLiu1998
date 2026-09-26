@@ -48,6 +48,28 @@ Learn more about me😎:
 
   <tr>
     <td style="border:none;" align="center">
+      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
+      <strong><a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning">
+      😎Awesome-Imbalanced-Learning: a curated list of imbalanced learning resources
+      </a> [Awesome]<br> 
+        [<a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning">English</a>] 
+        [<a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/blob/master/README_CN.md">Chinese/中文</a>]
+        [<a href="https://zhuanlan.zhihu.com/p/111460698">Zhihu/知乎</a>]</strong>
+      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
+    </td>
+    <td style="border:none;" align="center">
+      <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/thumbnails/awesomeil-thumb.png" width="150px" alt=""/><br>
+      <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/stargazers">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
+      </a>
+      <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/network/members">
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border:none;" align="center">
       <strong><a href="https://github.com/weitianxin/Awesome-Agentic-Reasoning">
       🧠Awesome Agentic Reasoning Papers
       </a> [Awesome / Survey]<br>
@@ -63,6 +85,28 @@ Learn more about me😎:
       </a>
       <a href="https://github.com/weitianxin/Awesome-Agentic-Reasoning/network/members">
       <img alt="GitHub forks" src="https://img.shields.io/github/forks/weitianxin/Awesome-Agentic-Reasoning?style=social">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border:none;" align="center">
+      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
+      <strong><a href="https://github.com/ZhiningLiu1998/awesome-machine-learning-resources">
+      😎Awesome Machine Learning Resources: a curated list across machine learning topics
+      </a> [Awesome]<br> 
+        [<a href="https://github.com/ZhiningLiu1998/awesome-machine-learning-resources">English</a>]
+        [<a href="https://github.com/ZhiningLiu1998/awesome-machine-learning-resources/blob/main/README_CN.md">Chinese/中文</a>]
+        [<a href="https://zhuanlan.zhihu.com/p/449876793">Zhihu/知乎</a>]</strong>
+      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
+    </td>
+    <td style="border:none;" align="center">
+      <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/awesome-awesome-ml/machine-learning.png" width="150px" alt=""/><br>
+      <a href="https://github.com/ZhiningLiu1998/awesome-machine-learning-resources/stargazers">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-machine-learning-resources?style=social">
+      </a>
+      <a href="https://github.com/ZhiningLiu1998/awesome-machine-learning-resources/network/members">
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-machine-learning-resources?style=social">
       </a>
     </td>
   </tr>
@@ -108,50 +152,6 @@ Learn more about me😎:
       </a>
       <a href="https://github.com/ZhiningLiu1998/self-paced-ensemble/network/members">
       <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/self-paced-ensemble?style=social">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="border:none;" align="center">
-      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
-      <strong><a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning">
-      😎Awesome-Imbalanced-Learning: a curated list of imbalanced learning resources
-      </a> [Awesome]<br> 
-        [<a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning">English</a>] 
-        [<a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/blob/master/README_CN.md">Chinese/中文</a>]
-        [<a href="https://zhuanlan.zhihu.com/p/111460698">Zhihu/知乎</a>]</strong>
-      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
-    </td>
-    <td style="border:none;" align="center">
-      <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/thumbnails/awesomeil-thumb.png" width="150px" alt=""/><br>
-      <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/stargazers">
-      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
-      </a>
-      <a href="https://github.com/ZhiningLiu1998/awesome-imbalanced-learning/network/members">
-      <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-imbalanced-learning?style=social">
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td style="border:none;" align="center">
-      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
-      <strong><a href="https://github.com/ZhiningLiu1998/awesome-machine-learning-resources">
-      😎Awesome Machine Learning Resources: a curated list across machine learning topics
-      </a> [Awesome]<br> 
-        [<a href="https://github.com/ZhiningLiu1998/awesome-machine-learning-resources">English</a>]
-        [<a href="https://github.com/ZhiningLiu1998/awesome-machine-learning-resources/blob/main/README_CN.md">Chinese/中文</a>]
-        [<a href="https://zhuanlan.zhihu.com/p/449876793">Zhihu/知乎</a>]</strong>
-      <!-- &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; -->
-    </td>
-    <td style="border:none;" align="center">
-      <img src="https://raw.githubusercontent.com/ZhiningLiu1998/figures/master/awesome-awesome-ml/machine-learning.png" width="150px" alt=""/><br>
-      <a href="https://github.com/ZhiningLiu1998/awesome-machine-learning-resources/stargazers">
-      <img alt="GitHub stars" src="https://img.shields.io/github/stars/ZhiningLiu1998/awesome-machine-learning-resources?style=social">
-      </a>
-      <a href="https://github.com/ZhiningLiu1998/awesome-machine-learning-resources/network/members">
-      <img alt="GitHub forks" src="https://img.shields.io/github/forks/ZhiningLiu1998/awesome-machine-learning-resources?style=social">
       </a>
     </td>
   </tr>
